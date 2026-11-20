@@ -108,11 +108,11 @@ The dashboard contains three main sections:
 
 2. Product & Channel Performance
 
-![Product & Channel Performance](https://raw.githubusercontent.com/tasneem-mukhtar/Regional-Sales-Analysis/refs/heads/main/Product%20%26%20Channel%20Performance.jpg)
+![Product & Channel Performance](https://github.com/tasneem-mukhtar/Regional-Sales-Analysis/blob/main/Product%20%26%20Channel%20Performance.jpg)
 
 3. Geographic & Customer Insights
 
-![Geographic & Customer Insights](https://raw.githubusercontent.com/tasneem-mukhtar/Regional-Sales-Analysis/refs/heads/main/Geographic%20%26%20Customer%20Insights.jpg)
+![Geographic & Customer Insights]()
 
 6. Key Business Insights
 

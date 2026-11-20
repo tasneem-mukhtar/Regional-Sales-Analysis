@@ -112,7 +112,7 @@ The dashboard contains three main sections:
 
 3. Geographic & Customer Insights
 
-![Geographic & Customer Insights]()
+![Geographic & Customer Insights](https://github.com/tasneem-mukhtar/Regional-Sales-Analysis/blob/main/Geographic%20%26%20Customer%20Insights.jpg)
 
 6. Key Business Insights
 
